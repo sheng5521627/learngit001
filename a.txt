@@ -3,4 +3,23 @@ baaa
 =======
 bbbb
 >>>>>>> dev
+<<<<<<< Updated upstream
 修改bug
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+这是在dev分支上进行编码
+>>>>>>> Stashed changes
